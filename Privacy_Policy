@@ -1,69 +1,118 @@
-Privacy Policy for WOW Helper
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - WOW Helper</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #1f2937;
+            background-color: #f9fafb;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 32px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        h1 {
+            color: #111827;
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 12px;
+        }
+        h2 {
+            color: #374151;
+            font-size: 1.35rem;
+            margin-top: 24px;
+            margin-bottom: 12px;
+        }
+        p, li {
+            color: #4b5563;
+            font-size: 1rem;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .meta-info {
+            font-size: 0.9rem;
+            color: #6b7280;
+            margin-bottom: 24px;
+        }
+        .contact-box {
+            background-color: #f3f4f6;
+            padding: 16px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-Effective Date: August 15, 2026
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <div class="meta-info">
+        <strong>App Name:</strong> WOW Helper<br>
+        <strong>Developer:</strong> Pranab Debnath (GNB Publishing)<br>
+        <strong>Effective Date:</strong> August 15, 2026
+    </div>
 
-Last Updated: August 15, 2026
+    <p>Welcome to <strong>WOW Helper</strong>. Your privacy is critically important to us. This Privacy Policy outlines the types of information processed by the app, how it is used, and how your data remains protected when using our services.</p>
 
-WOW Helper ("we," "our," or "us"), operated by GNB Publishing, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application WOW Helper (the "App").
-1. Information We Collect
-A. Information You Provide directly
+    <h2>1. Information Collection &amp; Local Processing</h2>
+    <p><strong>WOW Helper</strong> is designed with privacy-first principles. Most features operate entirely offline and locally on your device:</p>
+    <ul>
+        <li><strong>Direct WhatsApp Chat:</strong> Phone numbers and text messages entered in the Direct Chat feature are used solely to construct standard WhatsApp web links (<code>api.whatsapp.com</code>). <strong>No phone numbers or chat messages are stored, tracked, or sent to any external server.</strong></li>
+        <li><strong>Hardware &amp; Sensor Tests:</strong> Tools such as Mic Test, Speaker Test, Camera Test, Sensors, and Battery Info read hardware status locally. No media recordings or telemetry logs leave your device.</li>
+        <li><strong>File &amp; Document Utilities:</strong> PDF operations (Merge, Split, Compress) and Image utilities (Compress, Resize, Crop, Converter) process files <strong>strictly inside your device's memory</strong>. Your personal files are never uploaded to any remote server.</li>
+    </ul>
 
-    Direct Chat Feature: When you use the Direct Chat feature to open messages on WhatsApp, the phone numbers and text messages you enter are processed locally on your device to form standard WhatsApp deep links (api.whatsapp.com). We do not store, collect, or transmit your phone numbers or messages to any external server.
+    <h2>2. In-App Purchases &amp; Subscriptions</h2>
+    <p>If you purchase a Pro subscription or lifetime access within the app, financial transactions are handled securely by <strong>Google Play Billing</strong>. We do not collect, store, or have access to your credit card details or banking information. We only receive purchase confirmation tokens from Google Play to unlock Pro features.</p>
 
-B. Automatically Processed Information & In-App Purchases
+    <h2>3. Third-Party Services</h2>
+    <p>The app relies on trusted third-party services that govern data according to their respective privacy policies:</p>
+    <ul>
+        <li><strong>Google Play Billing / Google Play Services:</strong> Manages in-app subscriptions and app functionality. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></li>
+        <li><strong>WhatsApp (Meta Platforms, Inc.):</strong> Handles intent redirects when using the Direct Chat tool. <a href="https://www.whatsapp.com/legal/privacy-policy" target="_blank" rel="noopener">WhatsApp Privacy Policy</a></li>
+    </ul>
 
-    Google Play Billing Information: If you purchase a subscription or lifetime access within the App, all transactions are handled securely by Google Play Billing. We do not collect or store your financial details, credit card numbers, or banking information. We only receive confirmation tokens from Google Play to verify whether your Pro status is active.
+    <h2>4. App Permissions</h2>
+    <p>To provide specific utility features, the app may request access to runtime permissions. You can grant or revoke these anytime via your Android System Settings:</p>
+    <ul>
+        <li><strong>Camera:</strong> Required for the Camera Test and document scanner features.</li>
+        <li><strong>Microphone:</strong> Required for testing hardware microphone input.</li>
+        <li><strong>Storage / Media:</strong> Required to select, edit, compress, or convert local images and PDF documents.</li>
+    </ul>
 
-    Device Hardware & Sensors: Features like Speaker Test, Mic Test, Camera Test, Sensors, and Battery Info process hardware status locally on your device strictly to provide diagnostic results. No media, audio recordings, or sensor logs leave your device.
+    <h2>5. Data Security &amp; Children's Privacy</h2>
+    <p>Because we do not transmit or store your personal data on external servers, your data remains secure on your physical device. The app does not knowingly collect or solicit personal information from children under the age of 13.</p>
 
-2. How We Use Your Information
+    <h2>6. Contact Developer</h2>
+    <p>If you have any questions, concerns, or feedback regarding this Privacy Policy, please contact the developer directly:</p>
+    <div class="contact-box">
+        <strong>Developer:</strong> Pranab Debnath<br>
+        <strong>Brand/Publisher:</strong> GNB Publishing<br>
+        <strong>Email:</strong> <a href="mailto:Pranabdebnathofficial@gmail.com">Pranabdebnathofficial@gmail.com</a>
+    </div>
+</div>
 
-We use the minimal processed information strictly to:
-
-    Verify your subscription/lifetime purchase status via Google Play.
-
-    Provide and execute utility tools (e.g., PDF processing, image compression, hardware diagnostics, and WhatsApp deep links).
-
-    Maintain app functionality and prevent fraud.
-
-3. Data Storage and Local Processing
-
-    Local Storage: All files created or modified by tools (such as compressed images, merged PDFs, or secure notes) remain stored locally on your device.
-
-    No External Servers: We do not maintain external servers to collect, upload, or store your personal files, documents, or personal data.
-
-4. Third-Party Services
-
-The App integrates with trusted third-party service providers that operate under their own privacy policies:
-
-    Google Play Services / Google Play Billing: Used for processing in-app subscriptions and lifetime purchases.
-
-        Google Privacy Policy
-
-    WhatsApp (Meta Platforms, Inc.): When using the Direct Chat feature, you are redirected to WhatsApp. The transmission of data is governed by WhatsApp’s terms and privacy policies.
-
-        WhatsApp Privacy Policy
-
-5. Permissions Requested
-
-The App may request permissions necessary to perform specific utility functions. You can grant or revoke these permissions at any time via your device settings:
-
-    Camera: Required for Camera Test and Scanner features.
-
-    Storage / Media Access: Required to pick, compress, resize, or process images and PDF files locally.
-
-    Microphone: Required for Microphone hardware test functionality.
-
-6. Children's Privacy
-
-Our App does not knowingly collect or solicit personal information from children under the age of 13. If you believe we have inadvertently collected such information, please contact us immediately so we can resolve it.
-7. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We encourage you to review this page periodically for any changes. Changes are effective immediately upon posting.
-8. Contact Us
-
-If you have any questions or suggestions regarding this Privacy Policy, feel free to contact us:
-
-    Developer / Publisher: Pranab Debnath
-
-    Email: Pranabdebnathofficial@gmail.com
+</body>
+</html>
