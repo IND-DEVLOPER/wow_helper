@@ -1,0 +1,69 @@
+Privacy Policy for WOW Helper
+
+Effective Date: August 15, 2026
+
+Last Updated: August 15, 2026
+
+WOW Helper ("we," "our," or "us"), operated by GNB Publishing, is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application WOW Helper (the "App").
+1. Information We Collect
+A. Information You Provide directly
+
+    Direct Chat Feature: When you use the Direct Chat feature to open messages on WhatsApp, the phone numbers and text messages you enter are processed locally on your device to form standard WhatsApp deep links (api.whatsapp.com). We do not store, collect, or transmit your phone numbers or messages to any external server.
+
+B. Automatically Processed Information & In-App Purchases
+
+    Google Play Billing Information: If you purchase a subscription or lifetime access within the App, all transactions are handled securely by Google Play Billing. We do not collect or store your financial details, credit card numbers, or banking information. We only receive confirmation tokens from Google Play to verify whether your Pro status is active.
+
+    Device Hardware & Sensors: Features like Speaker Test, Mic Test, Camera Test, Sensors, and Battery Info process hardware status locally on your device strictly to provide diagnostic results. No media, audio recordings, or sensor logs leave your device.
+
+2. How We Use Your Information
+
+We use the minimal processed information strictly to:
+
+    Verify your subscription/lifetime purchase status via Google Play.
+
+    Provide and execute utility tools (e.g., PDF processing, image compression, hardware diagnostics, and WhatsApp deep links).
+
+    Maintain app functionality and prevent fraud.
+
+3. Data Storage and Local Processing
+
+    Local Storage: All files created or modified by tools (such as compressed images, merged PDFs, or secure notes) remain stored locally on your device.
+
+    No External Servers: We do not maintain external servers to collect, upload, or store your personal files, documents, or personal data.
+
+4. Third-Party Services
+
+The App integrates with trusted third-party service providers that operate under their own privacy policies:
+
+    Google Play Services / Google Play Billing: Used for processing in-app subscriptions and lifetime purchases.
+
+        Google Privacy Policy
+
+    WhatsApp (Meta Platforms, Inc.): When using the Direct Chat feature, you are redirected to WhatsApp. The transmission of data is governed by WhatsApp’s terms and privacy policies.
+
+        WhatsApp Privacy Policy
+
+5. Permissions Requested
+
+The App may request permissions necessary to perform specific utility functions. You can grant or revoke these permissions at any time via your device settings:
+
+    Camera: Required for Camera Test and Scanner features.
+
+    Storage / Media Access: Required to pick, compress, resize, or process images and PDF files locally.
+
+    Microphone: Required for Microphone hardware test functionality.
+
+6. Children's Privacy
+
+Our App does not knowingly collect or solicit personal information from children under the age of 13. If you believe we have inadvertently collected such information, please contact us immediately so we can resolve it.
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We encourage you to review this page periodically for any changes. Changes are effective immediately upon posting.
+8. Contact Us
+
+If you have any questions or suggestions regarding this Privacy Policy, feel free to contact us:
+
+    Developer / Publisher: Pranab Debnath
+
+    Email: Pranabdebnathofficial@gmail.com
